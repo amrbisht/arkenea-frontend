@@ -1,0 +1,30 @@
+.card-body:hover {
+  background-color: #def2f1;
+  cursor: pointer;
+
+  h6 {
+    color: #000000;
+    font-weight: 700;
+  }
+}
+
+.card {
+  border: none;
+}
+
+.card-body {
+  background-color: #257c6b;
+  border-radius: 5px;
+  height: 100px;
+}
+
+h6 {
+  font-weight: 600;
+  color: #ffffff;
+  text-transform: uppercase;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}

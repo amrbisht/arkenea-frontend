@@ -1,0 +1,34 @@
+.header {
+  background-color: #17252a;
+  color: #ffffff;
+  padding: 0px;
+}
+
+.navbar-nav span {
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.navbar-nav :hover {
+  cursor: pointer;
+}
+
+
+.user {
+  font-size: 15px;
+  background-color: #17252a;
+  color: #ffffff;
+  border: none;
+}
+
+.icon {
+  font-size: 15px;
+}
+
+.line {
+  height: 22px;
+  width: 1px;
+  background-color: #ffffff;
+  margin-left: 5px;
+  margin-right: 5px;
+}
